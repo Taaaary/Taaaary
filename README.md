@@ -1,7 +1,7 @@
 ![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)
 
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A cs student from Italy.</h3>
+<h3 align="center">A cs student from Turin, Italy.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
